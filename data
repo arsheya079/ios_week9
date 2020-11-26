@@ -1,0 +1,20 @@
+{
+    "data":
+    [
+        {
+        "type" : "Balcony level",
+        "price" : 7,
+        "amount" : 36
+        },
+        {
+        "type" : "Lower level",
+        "price" : 10079,
+        "amount" : 25
+        },
+        {
+        "type" : "Courtside",
+        "price" : 27000,
+        "amount" : 45
+        }
+    ]
+}
